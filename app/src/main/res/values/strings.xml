@@ -6,4 +6,10 @@
     <string name="Header">SUMMARY</string>
     <string name="NewTask">New Task</string>
     <string name="ShowAll">Show All</string>
+    <string name="TaskName">Name of Task</string>
+    <string name="TaskDetails">Details of Task</string>
+    <string name="SwitchDone">DONE?</string>
+    <string name="PlaceholderPercentage">0%</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
 </resources>
